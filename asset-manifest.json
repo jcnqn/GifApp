@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GifApp/static/css/main.f2380328.chunk.css",
+    "main.js": "/GifApp/static/js/main.f485a5d8.chunk.js",
+    "main.js.map": "/GifApp/static/js/main.f485a5d8.chunk.js.map",
+    "runtime-main.js": "/GifApp/static/js/runtime-main.fca53bb9.js",
+    "runtime-main.js.map": "/GifApp/static/js/runtime-main.fca53bb9.js.map",
+    "static/js/2.02bc1937.chunk.js": "/GifApp/static/js/2.02bc1937.chunk.js",
+    "static/js/2.02bc1937.chunk.js.map": "/GifApp/static/js/2.02bc1937.chunk.js.map",
+    "index.html": "/GifApp/index.html",
+    "static/css/main.f2380328.chunk.css.map": "/GifApp/static/css/main.f2380328.chunk.css.map",
+    "static/js/2.02bc1937.chunk.js.LICENSE.txt": "/GifApp/static/js/2.02bc1937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca53bb9.js",
+    "static/js/2.02bc1937.chunk.js",
+    "static/css/main.f2380328.chunk.css",
+    "static/js/main.f485a5d8.chunk.js"
+  ]
+}
